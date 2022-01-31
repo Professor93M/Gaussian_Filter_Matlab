@@ -2,4 +2,6 @@
 Gaussian Filter for removing Gaussian Noise from Images - Code in Matlab
 
 
-### code By Mohammed K Jumaah & Mohammed Q Kareem
+code By:
+ - Mohammed K Jumaah 
+ - Mohammed Q Kareem
